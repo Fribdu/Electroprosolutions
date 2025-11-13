@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Electrician",
+  "name": "ElectroPro Solutions",
+  "url": "https://YOURUSERNAME.github.io/electropro-solutions",
+  "logo": "https://YOURUSERNAME.github.io/electropro-solutions/assets/favicon.ico",
+  "image": "https://YOURUSERNAME.github.io/electropro-solutions/assets/img/hero.jpg",
+  "description": "Expertos en instalaciones eléctricas residenciales, industriales, energías renovables y sector naval.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Madrid",
+    "addressRegion": "Madrid",
+    "addressCountry": "ES"
+  },
+  "telephone": "+34 900 123 456",
+  "email": "info@electroprosolutions.com",
+  "openingHours": "Mo-Fr 08:00-19:00",
+  "areaServed": {
+    "@type": "Country",
+    "name": "España"
+  },
+  "serviceType": [
+    "Electricidad Residencial",
+    "Electricidad Industrial",
+    "Energías Renovables",
+    "Electricidad Naval"
+  ]
+}
